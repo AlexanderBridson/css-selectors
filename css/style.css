@@ -44,3 +44,11 @@ header > p {
 a[rel="external"] {
     color: purple;
 }
+
+section#experience {
+    border-bottom: 2px dashed #ccc;
+}
+
+main > section {
+    margin-bottom: 3rem;
+}
